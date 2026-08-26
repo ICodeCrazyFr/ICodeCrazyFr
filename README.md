@@ -5,5 +5,3 @@
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ICodeCrazyFr&layout=compact)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICodeCrazyFr&theme=default)
-
-![Streak Stats](https://streak-stats.demolab.com?user=ICodeCrazyFr)
