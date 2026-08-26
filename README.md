@@ -2,4 +2,4 @@
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ICodeCrazyFr&layout=compact&theme=dark&bg_color=000000)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICodeCrazyFr&theme=radical&bg_color=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICodeCrazyFr&theme=prussian&bg_color=000000)
