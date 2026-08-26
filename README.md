@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ICodeCrazyFr&style=plastic&color=ffffff)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1196052754825760828)
+![Profile Views](https://komarev.com/ghpvc/?username=ICodeCrazyFr&style=for-the-badge&color=cyan)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1196052754825760828&style=plastic)
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ICodeCrazyFr&layout=compact&theme=prussian&bg_color=000000) 
 
