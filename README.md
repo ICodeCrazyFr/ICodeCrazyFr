@@ -2,4 +2,4 @@
 
 ![Total Commits](https://github-readme-stats-fast.vercel.app/api?username=ICodeCrazyFr&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ICodeCrazyFr&layout=compact)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ICodeCrazyFr&layout=compact)
