@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ICodeCrazyFr&style=for-the-badge)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1196052754825760828)
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ICodeCrazyFr)
+![Profile Views](https://profile-views-counter.vercel.app/api?username=ICodeCrazyFr&count_by=views)
 
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ICodeCrazyFr&layout=compact&theme=prussian&bg_color=000000) 
